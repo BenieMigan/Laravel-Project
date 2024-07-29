@@ -64,3 +64,28 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+
+# TP 4 :Blog simple
+
+## Capture d’écran des interfaces :
+
+![Page d'acceuil de la liste des articles](./pageArticles.jpg)
+![Page d'acceuil de la creation des articles](./pagecreationarticle.jpg)
+![Page commentaire](./pagecommentaitre.jpg)
+![Vue commentaire](./Vuepagecommentaire.jpg)
+![Exemple de creation d'un article](./articlecreer2.jpg)
+![Exemple de creation d'un autre articles](./pagecreationarticles.jpg)
+![Vue de la page commentaire](./commentaireajouter.jpg)
+![Suppression de la page commentaire créer](./apressuppressioncommentaire.jpg)
+![Mise a jour de la page commentaire](./Miseajourcommentaireajouter.jpg)
+![Commentaire modifier](./commentaiemodifier.jpg)
+![Vue de la page article](./vuepagearticles.jpg)
+![Vue de la suppression de l'article base laravel](./suppressionarticlebasedelaravel.jpg)
+![Modification de l'article laravel2 en laravel1](./modificationlaravel2enlaravel1.jpg)
+
